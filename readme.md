@@ -47,10 +47,12 @@ http://localhost/jetbus
 ## Login Akun
 
 Admin
+
 email: admin@gmail.com
 password: admin123
 
-User:
+User
+
 email: pengguna@gmail.com  
 password: pengguna123
 
