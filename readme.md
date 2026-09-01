@@ -48,7 +48,7 @@ http://localhost/jetbus
 
 Admin
 
-email: admin@gmail.com
+email: admin@gmail.com  
 password: admin123
 
 User
