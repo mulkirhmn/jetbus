@@ -44,7 +44,7 @@ jetbus.sql
 http://localhost/jetbus
 ```
 
-## Login Akunn
+## Login Akun
 
 Admin
 email: admin@gmail.com
