@@ -43,8 +43,21 @@ jetbus.sql
 ```bash
 http://localhost/jetbus
 ```
+
+## Login Akunn
+
+Admin
+email: admin@gmail.com
+password: admin123
+
+User:
+email: pengguna@gmail.com  
+password: pengguna123
+
+
 ## Authors
 Mulki Rahman
 
 ## Link
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulki-rahman)
+
